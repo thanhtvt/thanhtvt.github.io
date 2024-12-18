@@ -26,9 +26,9 @@ My attached [CV](https://drive.google.com/file/d/1tStwxQ5qdfPdOWf8xc0I_LcjllbG1s
 # 🔥 News
 - *2024.11*: 🎉 One paper is accpeted at KDD 2025!
 - *2024.10*: 🎉 One paper is accepted at Machine Learning in Structural Biology (MLSB) Workshop in NeurIPS 2024!
-- *2024.8*: 🎉 One paper is accepted and published in IEEE Transactions on Evolutionary Computation!
-- *2023.8*: I join FPT Software AI Center <img src='./images/AIC-x-FSOFT.png' style='width: 6em;'> as an AI Resident in Vietnam!
-- *2021.10*: I join VinBigData <img src='./images/vinbigdata.svg', style='width: 6em;'> as a speech research intern in Vietnam!
+- *2024.08*: 🎉 One paper is accepted and published in IEEE Transactions on Evolutionary Computation!
+- *2023.08*: I join FPT Software AI Center <img src='./images/AIC-x-FSOFT.png' style='width: 4em;'> as an AI Resident in Vietnam!
+- *2021.10*: I join VinBigData <img src='./images/VinBigData.png', style='width: 5em;'> as a speech research intern in Vietnam!
 
 # 📝 Publications 
 
