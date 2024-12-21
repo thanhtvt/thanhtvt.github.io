@@ -33,12 +33,12 @@ My attached [CV](https://drive.google.com/file/d/1tStwxQ5qdfPdOWf8xc0I_LcjllbG1s
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/papers/ICASSP2025-ConxGNN.png' alt="ICASSP 2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>ICASSP 2025</b></div><img src='images/papers/ICASSP2025-ConxGNN.png' alt="ICASSP 2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Effective Context Modeling Framework for Emotion Recognition in Conversations]()
 
-Cuong Tran Van*, **Thanh V. T. Tran***, Van Nguyen, Truong Son Hy
+Cuong Tran Van\*, **Thanh V. T. Tran\***, Van Nguyen, Truong Son Hy
 
 [**[Paper]**]() [**[Code]**]() 
 - We design a GNN framework modeling both multiscale and multivariate interactions among modalities and utterances within conversations. 
@@ -46,12 +46,12 @@ Cuong Tran Van*, **Thanh V. T. Tran***, Van Nguyen, Truong Son Hy
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/papers/KDD2025-GROOT.png' alt="KDD 2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>KDD 2025</b></div><img src='images/papers/KDD2025-GROOT.png' alt="KDD 2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GROOT: Effective Design of Biological Sequences with Limited Experimental Data](https://arxiv.org/abs/2411.11265)
 
-**Thanh V. T. Tran***, Nhat Khang Ngo *, Viet Anh Nguyen, Truong Son Hy
+**Thanh V. T. Tran\***, Nhat Khang Ngo\*, Viet Anh Nguyen, Truong Son Hy
 
 [**[Paper]**](https://arxiv.org/abs/2411.11265) [**[Code]**](https://github.com/Fsoft-AIC/GROOT) 
 - We introduce a novel framework using graph-based smoothing to train a surrogate model, which is then used in the optimization process. 
@@ -60,8 +60,8 @@ Cuong Tran Van*, **Thanh V. T. Tran***, Van Nguyen, Truong Son Hy
 </div>
 </div>
 
-- ``NeurIPS 2024 Workshop`` [LatentDE: Latent-based Directed Evolution accelerated by Gradient Ascent for Protein Sequence Design](https://www.mlsb.io/papers_2024/LatentDE:_Latent-based_Directed_Evolution_accelerated_by_Gradient_Ascent_for_Protein_Sequence_Design.pdf) 
-- ``IEEE Transactions on Evolutionary Computation`` [Protein Design by Directed Evolution guided by Large Language Models](https://ieeexplore.ieee.org/document/10628050), **Thanh V. T. Tran**, Truong Son Hy
+- <div class="badge"><b>MLSB Workshop</b></div> [LatentDE: Latent-based Directed Evolution accelerated by Gradient Ascent for Protein Sequence Design](https://www.mlsb.io/papers_2024/LatentDE:_Latent-based_Directed_Evolution_accelerated_by_Gradient_Ascent_for_Protein_Sequence_Design.pdf), Nhat Khang Ngo\*, **Thanh V. T. Tran\***, Viet Thanh Duy Nguyen, Truong Son Hy \| [**[Paper]**]() [**[Code]**]()
+- <div class="badge"><b>IEEE Transactions on Evolutionary Computation</b></div> [Protein Design by Directed Evolution guided by Large Language Models](https://ieeexplore.ieee.org/document/10628050), **Thanh V. T. Tran**, Truong Son Hy 
 
 # 🎖 Honors and Awards
 - University of Engineering and Technology's Scholarship
