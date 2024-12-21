@@ -60,8 +60,8 @@ Cuong Tran Van\*, **Thanh V. T. Tran\***, Van Nguyen, Truong Son Hy
 </div>
 </div>
 
-- <div class="badge"><b>MLSB Workshop</b></div> [LatentDE: Latent-based Directed Evolution accelerated by Gradient Ascent for Protein Sequence Design](https://www.mlsb.io/papers_2024/LatentDE:_Latent-based_Directed_Evolution_accelerated_by_Gradient_Ascent_for_Protein_Sequence_Design.pdf), Nhat Khang Ngo\*, **Thanh V. T. Tran\***, Viet Thanh Duy Nguyen, Truong Son Hy \| [**[Paper]**]() [**[Code]**]()
-- <div class="badge"><b>IEEE Transactions on Evolutionary Computation</b></div> [Protein Design by Directed Evolution guided by Large Language Models](https://ieeexplore.ieee.org/document/10628050), **Thanh V. T. Tran**, Truong Son Hy 
+- [LatentDE: Latent-based Directed Evolution accelerated by Gradient Ascent for Protein Sequence Design](https://www.mlsb.io/papers_2024/LatentDE:_Latent-based_Directed_Evolution_accelerated_by_Gradient_Ascent_for_Protein_Sequence_Design.pdf), Nhat Khang Ngo\*, **Thanh V. T. Tran\***, Viet Thanh Duy Nguyen, Truong Son Hy \| **[MLSB Workshop]** [**[Code]**](https://github.com/HySonLab/LatentDE)
+- [Protein Design by Directed Evolution guided by Large Language Models](https://ieeexplore.ieee.org/document/10628050), **Thanh V. T. Tran**, Truong Son Hy \| **[IEEE Transactions on Evolutionary Computation]** [**[Code]**](https://github.com/HySonLab/Directed_Evolution) 
 
 # 🎖 Honors and Awards
 - University of Engineering and Technology's Scholarship
