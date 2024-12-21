@@ -24,11 +24,12 @@ My research interests focus on audio and speech synthesis, particularly their ge
 My attached [CV](https://drive.google.com/file/d/1tStwxQ5qdfPdOWf8xc0I_LcjllbG1sOg/view?usp=sharing) (*last updated: 2024 Dec*).
 
 # 🔥 News
-- *2024.11*: 🎉 One paper is accpeted at KDD 2025!
+- *2024.12*: 🎉 One paper is accepted at ICASSP 2025!
+- *2024.11*: 🎉 One paper is accepted at KDD 2025!
 - *2024.10*: 🎉 One paper is accepted at Machine Learning in Structural Biology (MLSB) Workshop in NeurIPS 2024!
-- *2024.08*: 🎉 One paper is accepted and published in IEEE Transactions on Evolutionary Computation!
+- *2024.08*: 🎉 One paper is accepted at IEEE Transactions on Evolutionary Computation!
 - *2023.08*: I join FPT Software AI Center <img src='./images/AIC-x-FSOFT.png' style='width: 4em;'> as an AI Resident in Vietnam!
-- *2021.10*: I join VinBigData <img src='./images/VinBigData.png', style='width: 5em;'> as a speech research intern in Vietnam!
+- *2021.10*: I join VinBigData <img src='./images/VinBigData.png' style='width: 5em;'> as a speech research intern in Vietnam!
 
 # 📝 Publications 
 
@@ -48,7 +49,7 @@ My attached [CV](https://drive.google.com/file/d/1tStwxQ5qdfPdOWf8xc0I_LcjllbG1s
 
 # 🎖 Honors and Awards
 - University of Engineering and Technology's Scholarship
-- Second prize in ASR Task 1, VLSP 22 ([Certificate](https://drive.google.com/file/d/19ghduXlgazYgex_o71hjpz38DoQrviY2/view?usp=share_link))
+- Second prize in ASR Task 1, VLSP 2022 ([Certificate](https://drive.google.com/file/d/19ghduXlgazYgex_o71hjpz38DoQrviY2/view?usp=share_link))
 - Third prize in ASR Task 2, VLSP 2022 ([Certificate](https://drive.google.com/file/d/1DhZGtwPI5Z-T_lenxscEITuodC67kHSJ/view?usp=share_link))
 - Third prize in Scientific Research Contest, University of Engineering and Technology ([Certificate](https://drive.google.com/file/d/1wjWLX_DMIj1PX7ZbR2H1vagaNSFqwRrA/view?usp=sharing))
 
