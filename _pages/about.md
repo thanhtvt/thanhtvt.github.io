@@ -24,28 +24,44 @@ My research interests focus on audio and speech synthesis, particularly their ge
 My attached [CV](https://drive.google.com/file/d/1tStwxQ5qdfPdOWf8xc0I_LcjllbG1sOg/view?usp=sharing) (*last updated: 2024 Dec*).
 
 # 🔥 News
-- *2024.12*: 🎉 One paper is accepted at ICASSP 2025!
-- *2024.11*: 🎉 One paper is accepted at KDD 2025!
-- *2024.10*: 🎉 One paper is accepted at Machine Learning in Structural Biology (MLSB) Workshop in NeurIPS 2024!
-- *2024.08*: 🎉 One paper is accepted at IEEE Transactions on Evolutionary Computation!
+- *2024.12*: 🎉 One paper is accepted at **ICASSP 2025**!
+- *2024.11*: 🎉 One paper is accepted at **KDD 2025**!
+- *2024.10*: 🎉 One paper is accepted at **Machine Learning in Structural Biology (MLSB)** Workshop in NeurIPS 2024!
+- *2024.08*: 🎉 One paper is accepted at **IEEE Transactions on Evolutionary Computation**!
 - *2023.08*: I join FPT Software AI Center <img src='./images/AIC-x-FSOFT.png' style='width: 4em;'> as an AI Resident in Vietnam!
-- *2021.10*: I join VinBigData <img src='./images/VinBigData.png' style='width: 5em;'> as a speech research intern in Vietnam!
+- *2021.10*: I join VinBigData <img src='./images/VinBigData.png' style='width: 4em;'> as a speech research intern in Vietnam!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/papers/ICASSP2025-ConxGNN.png' alt="ICASSP 2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Effective Context Modeling Framework for Emotion Recognition in Conversations]()
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Cuong Tran Van*, **Thanh V. T. Tran***, Van Nguyen, Truong Son Hy
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**[Paper]**]() [**[Code]**]() 
+- We design a GNN framework modeling both multiscale and multivariate interactions among modalities and utterances within conversations. 
+- We address class imbalance with a re-weighting scheme in the loss function. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/papers/KDD2025-GROOT.png' alt="KDD 2025" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GROOT: Effective Design of Biological Sequences with Limited Experimental Data](https://arxiv.org/abs/2411.11265)
+
+**Thanh V. T. Tran***, Nhat Khang Ngo *, Viet Anh Nguyen, Truong Son Hy
+
+[**[Paper]**](https://arxiv.org/abs/2411.11265) [**[Code]**](https://github.com/Fsoft-AIC/GROOT) 
+- We introduce a novel framework using graph-based smoothing to train a surrogate model, which is then used in the optimization process. 
+- We theoretically and empirically show that our technique can expand into extrapolation regions while keeping a reasonable distance from the training data. 
+- Our method can be applied on diverse tasks of different domains. 
+</div>
+</div>
+
+- ``NeurIPS 2024 Workshop`` [LatentDE: Latent-based Directed Evolution accelerated by Gradient Ascent for Protein Sequence Design](https://www.mlsb.io/papers_2024/LatentDE:_Latent-based_Directed_Evolution_accelerated_by_Gradient_Ascent_for_Protein_Sequence_Design.pdf) 
+- ``IEEE Transactions on Evolutionary Computation`` [Protein Design by Directed Evolution guided by Large Language Models](https://ieeexplore.ieee.org/document/10628050), **Thanh V. T. Tran**, Truong Son Hy
 
 # 🎖 Honors and Awards
 - University of Engineering and Technology's Scholarship
