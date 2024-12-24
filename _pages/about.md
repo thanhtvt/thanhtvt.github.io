@@ -36,11 +36,11 @@ My attached [CV](https://drive.google.com/file/d/1tStwxQ5qdfPdOWf8xc0I_LcjllbG1s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>ICASSP 2025</b></div><img src='images/papers/ICASSP2025-ConxGNN.png' alt="ICASSP 2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Effective Context Modeling Framework for Emotion Recognition in Conversations]()
+[Effective Context Modeling Framework for Emotion Recognition in Conversations](https://arxiv.org/abs/2412.16444)
 
 Cuong Tran Van\*, **Thanh V. T. Tran\***, Van Nguyen, Truong Son Hy
 
-[**[Paper]**]() [**[Code]**]() 
+[**[Paper]**](https://arxiv.org/abs/2412.16444) [**[Code]**]() 
 - We design a GNN framework modeling both multiscale and multivariate interactions among modalities and utterances within conversations. 
 - We address class imbalance with a re-weighting scheme in the loss function. 
 </div>
