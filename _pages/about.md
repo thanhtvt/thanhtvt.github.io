@@ -24,6 +24,7 @@ My research interests focus on audio and speech synthesis, particularly their ge
 My attached [CV](https://drive.google.com/file/d/1tStwxQ5qdfPdOWf8xc0I_LcjllbG1sOg/view?usp=sharing) (*last updated: 2024 Dec*).
 
 # 🔥 News
+- *2025.03*: 🎉 One paper is accepted at **Machine Learning: Science and Technology**!
 - *2024.12*: 🎉 One paper is accepted at **ICASSP 2025**!
 - *2024.11*: 🎉 One paper is accepted at **KDD 2025**!
 - *2024.10*: 🎉 One paper is accepted at **Machine Learning in Structural Biology (MLSB)** Workshop in NeurIPS 2024!
@@ -36,11 +37,11 @@ My attached [CV](https://drive.google.com/file/d/1tStwxQ5qdfPdOWf8xc0I_LcjllbG1s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>ICASSP 2025</b></div><img src='images/papers/ICASSP2025-ConxGNN.png' alt="ICASSP 2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Effective Context Modeling Framework for Emotion Recognition in Conversations](https://arxiv.org/abs/2412.16444)
+[Effective Context Modeling Framework for Emotion Recognition in Conversations](https://ieeexplore.ieee.org/document/10888112)
 
 Cuong Tran Van\*, **Thanh V. T. Tran\***, Van Nguyen, Truong Son Hy
 
-[**[Paper]**](https://arxiv.org/abs/2412.16444) [**[Code]**]() 
+[**[Paper]**](https://ieeexplore.ieee.org/document/10888112) [**[Code]**](https://github.com/FSoft-AIC/ConxGNN/) 
 - We design a GNN framework modeling both multiscale and multivariate interactions among modalities and utterances within conversations. 
 - We address class imbalance with a re-weighting scheme in the loss function. 
 </div>
@@ -60,7 +61,7 @@ Cuong Tran Van\*, **Thanh V. T. Tran\***, Van Nguyen, Truong Son Hy
 </div>
 </div>
 
-- [LatentDE: Latent-based Directed Evolution accelerated by Gradient Ascent for Protein Sequence Design](https://www.mlsb.io/papers_2024/LatentDE:_Latent-based_Directed_Evolution_accelerated_by_Gradient_Ascent_for_Protein_Sequence_Design.pdf), Nhat Khang Ngo\*, **Thanh V. T. Tran\***, Viet Thanh Duy Nguyen, Truong Son Hy \| **[MLSB Workshop]** [**[Code]**](https://github.com/HySonLab/LatentDE)
+- [LatentDE: Latent-based Directed Evolution accelerated by Gradient Ascent for Protein Sequence Design](https://www.mlsb.io/papers_2024/LatentDE:_Latent-based_Directed_Evolution_accelerated_by_Gradient_Ascent_for_Protein_Sequence_Design.pdf), **Thanh V. T. Tran**, Nhat Khang Ngo, Viet Thanh Duy Nguyen, Truong Son Hy \| **[Machine Learning: Science and Technology]** [**[Code]**](https://github.com/HySonLab/LatentDE)
 - [Protein Design by Directed Evolution guided by Large Language Models](https://ieeexplore.ieee.org/document/10628050), **Thanh V. T. Tran**, Truong Son Hy \| **[IEEE Transactions on Evolutionary Computation]** [**[Code]**](https://github.com/HySonLab/Directed_Evolution) 
 
 # 🎖 Honors and Awards
