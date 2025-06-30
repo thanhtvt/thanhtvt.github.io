@@ -19,7 +19,7 @@ redirect_from:
 
 I am Thanh Tran, an AI Resident at [FPT Software AI Center](https://fpt-aicenter.com/), under the supervision of [Dr. Van Nguyen](https://scholar.google.com/citations?user=rJe1704AAAAJ) and [Prof. Son Hy](https://scholar.google.com/citations?user=JiKBo6UAAAAJ). Before that, I obtained my B.S. degree in Computer Science from [University of Engineering and Technology, Vietnam National University](https://uet.vnu.edu.vn/en/). I used to intern at [VinBigData](https://vinbigdata.com/en), working on Automatic Speech Recognition.
 
-My research interests focus on audio and speech synthesis, particularly their generation from other modalities like visual data and text. I also have experience in AI for Science, with two papers and one workshop published in the field of protein design. 
+My research interests focus on audio and speech synthesis, particularly their generation from other modalities like visual data and text. I also have experience in AI for Science, with three papers and one workshop published in the field of protein design. 
 
 My attached [CV](https://drive.google.com/file/d/1iPDLK-MZoB8pthokqEzlF9nte5iwta_W/view?usp=sharing) (*last updated: 2025 Jun*).
 
