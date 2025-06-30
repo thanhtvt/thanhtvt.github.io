@@ -21,9 +21,10 @@ I am Thanh Tran, an AI Resident at [FPT Software AI Center](https://fpt-aicenter
 
 My research interests focus on audio and speech synthesis, particularly their generation from other modalities like visual data and text. I also have experience in AI for Science, with two papers and one workshop published in the field of protein design. 
 
-My attached [CV](https://drive.google.com/file/d/1tStwxQ5qdfPdOWf8xc0I_LcjllbG1sOg/view?usp=sharing) (*last updated: 2024 Dec*).
+My attached [CV](https://drive.google.com/file/d/1iPDLK-MZoB8pthokqEzlF9nte5iwta_W/view?usp=sharing) (*last updated: 2025 Jun*).
 
 # 🔥 News
+- *2025.05*: 🎉 One paper is accepted at **Interspeech 2025**!
 - *2025.03*: 🎉 One paper is accepted at **Machine Learning: Science and Technology**!
 - *2024.12*: 🎉 One paper is accepted at **ICASSP 2025**!
 - *2024.11*: 🎉 One paper is accepted at **KDD 2025**!
@@ -41,7 +42,7 @@ My attached [CV](https://drive.google.com/file/d/1tStwxQ5qdfPdOWf8xc0I_LcjllbG1s
 
 Cuong Tran Van\*, **Thanh V. T. Tran\***, Van Nguyen, Truong Son Hy
 
-[**[Paper]**](https://ieeexplore.ieee.org/document/10888112) [**[Code]**](https://github.com/FSoft-AIC/ConxGNN/) 
+[**[Paper]**](https://ieeexplore.ieee.org/document/10888112) [**[Code]**](https://github.com/FSoft-AIC/ConxGNN/) [**[Poster]**](https://drive.google.com/file/d/19D7Bs_DdrVj5xCl4LHl6AZfubOjAnYuu/view?usp=sharing)
 - We design a GNN framework modeling both multiscale and multivariate interactions among modalities and utterances within conversations. 
 - We address class imbalance with a re-weighting scheme in the loss function. 
 </div>
@@ -54,13 +55,13 @@ Cuong Tran Van\*, **Thanh V. T. Tran\***, Van Nguyen, Truong Son Hy
 
 **Thanh V. T. Tran\***, Nhat Khang Ngo\*, Viet Anh Nguyen, Truong Son Hy
 
-[**[Paper]**](https://arxiv.org/abs/2411.11265) [**[Code]**](https://github.com/Fsoft-AIC/GROOT) 
+[**[Paper]**](https://arxiv.org/abs/2411.11265) [**[Code]**](https://github.com/Fsoft-AIC/GROOT) [**[Poster]**](https://drive.google.com/file/d/1V83LjlcekLPHYvbIQoLJfXSwlkoXqf_t/view?usp=sharing)
 - We introduce a novel framework using graph-based smoothing to train a surrogate model, which is then used in the optimization process. 
 - We theoretically and empirically show that our technique can expand into extrapolation regions while keeping a reasonable distance from the training data. 
 - Our method can be applied on diverse tasks of different domains. 
 </div>
 </div>
-
+- [RESOUND: Speech Reconstruction from Silent Videos via Acoustic-Semantic Decomposed Modeling](https://arxiv.org/abs/2505.22024), Long-Khanh Pham, **Thanh V. T. Tran**, Minh-Tan Pham, Van Nguyen \| **[Interspeech 2025]** [**[Project page]**](https://resound-l2s.github.io/)
 - [LatentDE: Latent-based Directed Evolution accelerated by Gradient Ascent for Protein Sequence Design](https://www.mlsb.io/papers_2024/LatentDE:_Latent-based_Directed_Evolution_accelerated_by_Gradient_Ascent_for_Protein_Sequence_Design.pdf), **Thanh V. T. Tran**, Nhat Khang Ngo, Viet Thanh Duy Nguyen, Truong Son Hy \| **[Machine Learning: Science and Technology]** [**[Code]**](https://github.com/HySonLab/LatentDE)
 - [Protein Design by Directed Evolution guided by Large Language Models](https://ieeexplore.ieee.org/document/10628050), **Thanh V. T. Tran**, Truong Son Hy \| **[IEEE Transactions on Evolutionary Computation]** [**[Code]**](https://github.com/HySonLab/Directed_Evolution) 
 
