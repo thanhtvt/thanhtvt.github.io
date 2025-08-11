@@ -21,7 +21,7 @@ I am Thanh Tran, an AI Resident at [FPT Software AI Center](https://fpt-aicenter
 
 My research interests focus on audio and speech synthesis, particularly their generation from other modalities like visual data and text. I also have experience in AI for Science, with three papers and one workshop published in the field of protein design. 
 
-My attached [CV](https://drive.google.com/file/d/1iPDLK-MZoB8pthokqEzlF9nte5iwta_W/view?usp=sharing) (*last updated: 2025 Jun*).
+My attached [CV](https://drive.google.com/file/d/1Mjxk8YIONCFAnrC91v3so-6BRHOg-2YW/view?usp=sharing) (*last updated: 2025 Aug*).
 
 # 🔥 News
 - *2025.05*: 🎉 One paper is accepted at **Interspeech 2025**!
