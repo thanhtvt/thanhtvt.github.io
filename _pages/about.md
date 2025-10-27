@@ -21,7 +21,7 @@ I am Thanh Tran, an AI Research Engineer at [FPT Software AI Center](https://fpt
 
 My research interests focus on audio and speech synthesis, particularly their generation from other modalities like visual data and text. I also have experience in AI for Science, with three papers and one workshop published in the field of protein design. 
 
-My attached [CV](../images/ThanhTVT_Resume.pdf) (*last updated: 2025 Oct*).
+My attached [CV](../resources/ThanhTVT_Resume.pdf) (*last updated: 2025 Oct*).
 
 # 🔥 News
 - *2025.05*: 🎉 One paper is accepted at **Interspeech 2025**!
@@ -30,12 +30,12 @@ My attached [CV](../images/ThanhTVT_Resume.pdf) (*last updated: 2025 Oct*).
 - *2024.11*: 🎉 One paper is accepted at **KDD 2025**!
 - *2024.10*: 🎉 One paper is accepted at **Machine Learning in Structural Biology (MLSB)** Workshop in NeurIPS 2024!
 - *2024.08*: 🎉 One paper is accepted at **IEEE Transactions on Evolutionary Computation**!
-- *2023.08*: I join FPT Software AI Center <img src='./images/AIC-x-FSOFT.png' style='width: 4em;'> as an AI Resident in Vietnam!
-- *2021.10*: I join VinBigData <img src='./images/VinBigData.png' style='width: 4em;'> as a speech research intern in Vietnam!
+- *2023.08*: I join FPT Software AI Center <img src='./resources/AIC-x-FSOFT.png' style='width: 4em;'> as an AI Resident in Vietnam!
+- *2021.10*: I join VinBigData <img src='./resources/VinBigData.png' style='width: 4em;'> as a speech research intern in Vietnam!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>ICASSP 2025</b></div><img src='images/papers/ICASSP2025-ConxGNN.png' alt="ICASSP 2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>ICASSP 2025</b></div><img src='resources/papers/ICASSP2025-ConxGNN.png' alt="ICASSP 2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Effective Context Modeling Framework for Emotion Recognition in Conversations](https://ieeexplore.ieee.org/document/10888112)
@@ -48,7 +48,7 @@ Cuong Tran Van\*, **Thanh V. T. Tran\***, Van Nguyen, Truong Son Hy
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>KDD 2025</b></div><img src='images/papers/KDD2025-GROOT.png' alt="KDD 2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>KDD 2025</b></div><img src='resources/papers/KDD2025-GROOT.png' alt="KDD 2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GROOT: Effective Design of Biological Sequences with Limited Experimental Data](https://arxiv.org/abs/2411.11265)

@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Thanh Van Trong Tran"
-  avatar           : "images/avatar/avatar.png"
+  avatar           : "resources/avatar/avatar.png"
   bio              : "FPT Software AI Center"
   location         : "Hanoi, Vietnam"
   employer         :
