@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Thanh Tran, an AI Resident at [FPT Software AI Center](https://fpt-aicenter.com/), under the supervision of [Dr. Van Nguyen](https://scholar.google.com/citations?user=rJe1704AAAAJ) and [Prof. Son Hy](https://scholar.google.com/citations?user=JiKBo6UAAAAJ). Before that, I obtained my B.S. degree in Computer Science from [University of Engineering and Technology, Vietnam National University](https://uet.vnu.edu.vn/en/). I used to intern at [VinBigData](https://vinbigdata.com/en), working on Automatic Speech Recognition.
+I am Thanh Tran, an AI Research Engineer at [FPT Software AI Center](https://fptsoftware.com/services/digital-technologies-and-platforms/artificial-intelligence), under the supervision of [Dr. Van Nguyen](https://scholar.google.com/citations?user=rJe1704AAAAJ) and [Prof. Truong-Son Hy](https://scholar.google.com/citations?user=JiKBo6UAAAAJ). Before that, I obtained my B.S. degree in Computer Science from [VNU University of Engineering and Technology](https://uet.vnu.edu.vn/en/). I used to intern at [VinBigData](https://vinbigdata.com/en), working on Automatic Speech Recognition.
 
 My research interests focus on audio and speech synthesis, particularly their generation from other modalities like visual data and text. I also have experience in AI for Science, with three papers and one workshop published in the field of protein design. 
 
-My attached [CV](https://drive.google.com/file/d/1Mjxk8YIONCFAnrC91v3so-6BRHOg-2YW/view?usp=sharing) (*last updated: 2025 Aug*).
+My attached [CV](../images/ThanhTVT_Resume.pdf) (*last updated: 2025 Oct*).
 
 # 🔥 News
 - *2025.05*: 🎉 One paper is accepted at **Interspeech 2025**!
@@ -79,5 +79,5 @@ Cuong Tran Van\*, **Thanh V. T. Tran\***, Van Nguyen, Truong Son Hy
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Industry Experience
-- *2023.08 - now*,     AI Resident, [FPT Software AI Center](https://fpt-aicenter.com), Hanoi, Vietnam
+- *2023.08 - now*,     AI Research Engineer, [FPT Software AI Center](https://fptsoftware.com/services/digital-technologies-and-platforms/artificial-intelligence), Hanoi, Vietnam
 - *2021.10 - 2022.11*, Spoken Language Processing Department, [VinBigData](https://vinbigdata.com/en/), Hanoi, Vietnam.
