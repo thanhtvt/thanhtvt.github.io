@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Thanh Tran, an AI Research Engineer at [FPT Software AI Center](https://fptsoftware.com/services/digital-technologies-and-platforms/artificial-intelligence), under the supervision of [Dr. Van Nguyen](https://scholar.google.com/citations?user=rJe1704AAAAJ) and [Prof. Truong-Son Hy](https://scholar.google.com/citations?user=JiKBo6UAAAAJ). Before that, I obtained my B.S. degree in Computer Science from [VNU University of Engineering and Technology](https://uet.vnu.edu.vn/en/). I used to intern at [VinBigData](https://vinbigdata.com/en), working on Automatic Speech Recognition.
+I am Thanh Tran, an AI Resident / AI Research Engineer at the [FPT Software AI Center](https://fptsoftware.com/services/digital-technologies-and-platforms/artificial-intelligence), working under the supervision of [Dr. Van Nguyen](https://scholar.google.com/citations?user=rJe1704AAAAJ) and [Prof. Truong-Son Hy](https://scholar.google.com/citations?user=JiKBo6UAAAAJ). Previously, I earned my B.S. degree in Computer Science from the [VNU University of Engineering and Technology](https://uet.vnu.edu.vn/en/). I spent my sophomore year interning at [VinBigData](https://vinbigdata.com/en), where I worked on Automatic Speech Recognition.
 
-My research interests focus on audio and speech synthesis, particularly their generation from other modalities like visual data and text. I also have experience in AI for Science, with three papers and one workshop published in the field of protein design. 
+My research centers on **multimodal learning** across a range of application scenarios. My past work spans visual-guided audio and speech generation, multimodal conversational emotion recognition, text-to-speech, and LLM agents. I also have experience in AI for Science (AI4Science), with three publications and a workshop paper in protein design.
 
-My attached [CV](../resources/ThanhTVT_Resume.pdf) (*last updated: 2025 Oct*).
+My attached [CV](../resources/ThanhTVT_Resume.pdf) (*last updated: 2025 Nov*).
 
 # 🔥 News
 - *2025.05*: 🎉 One paper is accepted at **Interspeech 2025**!
@@ -66,18 +66,18 @@ Cuong Tran Van\*, **Thanh V. T. Tran\***, Van Nguyen, Truong Son Hy
 - [Protein Design by Directed Evolution guided by Large Language Models](https://ieeexplore.ieee.org/document/10628050), **Thanh V. T. Tran**, Truong Son Hy \| **[IEEE Transactions on Evolutionary Computation]** [**[Code]**](https://github.com/HySonLab/Directed_Evolution) 
 
 # 🎖 Honors and Awards
-- University of Engineering and Technology's Scholarship
+- Merit Scholarship (8 semesters), VNU University of Engineering and Technology
 - Second prize in ASR Task 1, VLSP 2022 ([Certificate](https://drive.google.com/file/d/19ghduXlgazYgex_o71hjpz38DoQrviY2/view?usp=share_link))
 - Third prize in ASR Task 2, VLSP 2022 ([Certificate](https://drive.google.com/file/d/1DhZGtwPI5Z-T_lenxscEITuodC67kHSJ/view?usp=share_link))
-- Third prize in Scientific Research Contest, University of Engineering and Technology ([Certificate](https://drive.google.com/file/d/1wjWLX_DMIj1PX7ZbR2H1vagaNSFqwRrA/view?usp=sharing))
+- Third prize in Scientific Research Contest, VNU University of Engineering and Technology ([Certificate](https://drive.google.com/file/d/1wjWLX_DMIj1PX7ZbR2H1vagaNSFqwRrA/view?usp=sharing))
 
 # 📖 Educations
-- *2019.08 - 2023.06*, Undergraduate Student, [University of Engineering and Technology (UET), Vietnam National University](https://uet.vnu.edu.vn/en/) 
+- *2019.08 - 2023.06*, Bachelor's Degree in Computer Science, [VNU University of Engineering and Technology](https://uet.vnu.edu.vn/en/) 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Industry Experience
-- *2023.08 - now*,     AI Research Engineer, [FPT Software AI Center](https://fptsoftware.com/services/digital-technologies-and-platforms/artificial-intelligence), Hanoi, Vietnam
+- *2023.08 - now*,     AI Resident & AI Research Engineer, [FPT Software AI Center](https://fptsoftware.com/services/digital-technologies-and-platforms/artificial-intelligence), Hanoi, Vietnam.
 - *2021.10 - 2022.11*, Spoken Language Processing Department, [VinBigData](https://vinbigdata.com/en/), Hanoi, Vietnam.
