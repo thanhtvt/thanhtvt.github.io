@@ -21,7 +21,9 @@ I am Thanh Tran, an AI Resident / AI Research Engineer at the [FPT Software AI C
 
 My research centers on **multimodal learning** across a range of application scenarios. My past work spans visual-guided audio and speech generation, multimodal conversational emotion recognition, text-to-speech, and LLM agents. I also have experience in AI for Science (AI4Science), with three publications and a workshop paper in protein design.
 
-My attached [CV](../resources/ThanhTVT_Resume.pdf) (*last updated: 2025 Nov*).
+Besides my background, my research interests lie in the **integration of Graph Neural Networks (GNNs) and LLMs** to solve diverse applications, thereby allowing pretrained LLMs to understand and make use of relational information.
+
+My attached [CV](../resources/ThanhTVT_Resume.pdf) (*last updated: 2025 Dec*).
 
 # 🔥 News
 - *2025.05*: 🎉 One paper is accepted at **Interspeech 2025**!
