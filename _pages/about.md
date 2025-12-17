@@ -23,7 +23,7 @@ My research centers on **multimodal learning** across a range of application sce
 
 Besides my background, my research interests lie in the **integration of Graph Neural Networks (GNNs) and LLMs** to solve diverse applications, thereby allowing pretrained LLMs to understand and make use of relational information.
 
-My attached [CV](../resources/ThanhTVT_Resume.pdf) (*last updated: 2025 Dec*).
+My attached [CV](../resources/Resume.pdf) (*last updated: 2025 Dec*).
 
 # 🔥 News
 - *2025.05*: 🎉 One paper is accepted at **Interspeech 2025**!
