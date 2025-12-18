@@ -19,9 +19,7 @@ redirect_from:
 
 I am Thanh Tran, an AI Resident / AI Research Engineer at the [FPT Software AI Center](https://fptsoftware.com/services/digital-technologies-and-platforms/artificial-intelligence), working under the supervision of [Dr. Van Nguyen](https://scholar.google.com/citations?user=rJe1704AAAAJ) and [Prof. Truong-Son Hy](https://scholar.google.com/citations?user=JiKBo6UAAAAJ). Previously, I earned my B.Sc. degree in Computer Science (Honors) from the [VNU University of Engineering and Technology](https://uet.vnu.edu.vn/en/). I spent my sophomore year interning at [VinBigData](https://vinbigdata.com/en), where I worked on Automatic Speech Recognition.
 
-My research centers on **multimodal learning** across a range of application scenarios. My past work spans visual-guided audio and speech generation, multisensory conversational emotion recognition, text-to-speech, and LLM agents. I also have experience in AI for Science (AI4Science), with three publications and a workshop paper in protein design.
-
-Besides my background, my research interests lie in the **integration of Graph Neural Networks (GNNs) and LLMs** to solve diverse applications, thereby allowing pretrained LLMs to understand and make use of relational information.
+My research interests lie in the **integration of Graph Neural Networks (GNNs) and LLMs** to solve diverse applications, thereby allowing pretrained LLMs to understand and make use of relational information. In parallel, I am also passionate about **audio-visual learning**.
 
 My attached [CV](../resources/Resume.pdf) (*last updated: 2025 Dec*).
 
