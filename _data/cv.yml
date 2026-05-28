@@ -1,0 +1,79 @@
+cv:
+  name: Thanh V. T. Tran
+  language: English, Vietnamese
+  label:
+  email:
+  location:
+  image: ""
+  summary: 
+
+  social_networks:
+    - network: GitHub
+      username: thanhtvt
+    - network: LinkedIn
+      username: thanhtvt
+
+  address: 
+
+  sections:
+    Education:
+      - institution: Nanyang Technological University (NTU)
+        location: Singapore
+        url: https://www.ntu.edu.sg/
+        studyType: Ph.D. in Electrical and Electronic Engineering
+        start_date: 2026-08
+        end_date: Present
+        highlights:
+          - Advised by Professor <a href="https://sites.google.com/view/profwoon-seng-gan/">Woon-Seng Gan</a>
+
+      - institution: VNU University of Engineering and Technology (VNU-UET)
+        location: Hanoi, Vietnam
+        url: https://uet.vnu.edu.vn/en/
+        studyType: B.Sc. in Computer Science (Honors)
+        start_date: 2019-08
+        end_date: 2023-06
+        score: 3.71/4.00 (top 5%)
+        highlights:
+          - Excellence Degree (top 5%).
+          - "Thesis: Automatic Speech Recognition in Low-Resource Condition"
+
+    Experience:
+      - company: FPT Software - AI Center
+        position: AI Research Resident
+        location: Hanoi, Vietnam
+        url: https://fptsoftware.com/services/digital-technologies-and-platforms/artificial-intelligence
+        start_date: 2023-08
+        end_date: 2026-07
+        summary:
+        highlights:
+          - Supervised by Professor <a href="https://hytruongson.github.io/HySonLab/">Truong-Son Hy</a> and Dr. <a href="https://www.linkedin.com/in/vannguyen8/">Van Nguyen</a>
+
+      - company: VinBigData
+        position: Speech Processing Intern
+        location: Hanoi, Vietnam
+        url: https://vinbigdata.com/en
+        start_date: 2021-10
+        end_date: 2022-11
+        summary: 
+        highlights:
+
+    Awards:
+      - title: The Rising Innovator
+        date: 2026-04
+        awarder: FPT Software AI Center
+        summary: Third Place among 20 finalists in internal AI Innovation Hackathon Q1 2026.
+
+      - title: Best Performance Award 2025
+        date: 2026-01
+        awarder: FPT Software AI Center
+        summary: Top 3 performers among 100+ AI engineers and researchers in 2025.
+
+      - title: Second Prize - VLSP 2022
+        date: 2022
+        awarder: Association for Vietnamese Language and Speech Processing
+        summary: Second Place in Task 1 (ASR) at VLSP 2022, surpassing 30+ teams nationwide.
+
+      - title: Third Prize - VLSP 2022
+        date: 2022
+        awarder: Association for Vietnamese Language and Speech Processing
+        summary: Third Place in Task 2 (ASR) at VLSP 2022, surpassing 30+ teams nationwide.

@@ -1,0 +1,88 @@
+---
+---
+
+@article{diflowtts2026,
+  abbr        = {arXiv},
+  title       = {DiFlow-TTS: Compact and Low-Latency Zero-Shot Text-to-Speech with Factorized Discrete Flow Matching},
+  author      = {Nguyen, Ngoc-Son and Tran, Thanh V. T. and Huynh-Nguyen, Hieu-Nghia and Hy, Truong-Son and Nguyen, Van},
+  year        = {2026},
+  journal     = {Under Review},
+  abstract    = {This paper introduces DiFlow-TTS, a novel zero-shot text-to-speech (TTS) system that employs discrete flow matching for generative speech modeling. We position this work as an entry point that may facilitate further advances in this research direction. Through extensive empirical evaluation, we analyze both the strengths and limitations of this approach across key aspects, including naturalness, expressive attributes, speaker identity, and inference latency. To this end, we leverage factorized speech representations and design a deterministic Phoneme-Content Mapper for modeling linguistic content, together with a Factorized Discrete Flow Denoiser that jointly models multiple discrete token streams corresponding to prosody and acoustics to capture expressive speech attributes. Experimental results demonstrate that DiFlow-TTS achieves strong performance across multiple metrics while maintaining a compact model size, up to 11.7 times smaller, and enabling low-latency inference that is up to 34 times faster than recent state-of-the-art baselines.},
+  pdf         = {https://arxiv.org/abs/2509.09631},
+  website     = {https://diflow-tts.github.io/},
+}
+
+@article{diflowdubber2026,
+  abbr        = {CVPR},
+  title       = {DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization},
+  author      = {Nguyen, Ngoc-Son and Tran, Thanh V. T. and Choi, Jeongsoo and Huynh-Nguyen, Hieu-Nghia and Hy, Truong-Son and Nguyen, Van},
+  journal     = {Computer Vision and Pattern Recognition Findings},
+  year        = {2026},
+  selected    = {true},
+  abstract    = {Video dubbing requires content accuracy, expressive prosody, high-quality acoustics, and precise lip synchronization, yet existing approaches struggle on all four fronts. To address these issues, we propose DiFlowDubber, the first video dubbing framework built upon a discrete flow matching backbone with a novel two-stage training strategy. In the first stage, a zero-shot text-to-speech (TTS) system is pre-trained on large-scale corpora, where a deterministic architecture captures linguistic structures, and the Discrete Flow-based Prosody-Acoustic (DFPA) module models expressive prosody and realistic acoustic characteristics. In the second stage, we propose the Content-Consistent Temporal Adaptation (CCTA) to transfer TTS knowledge to the dubbing domain: its Synchronizer enforces cross-modal alignment for lip-synchronized speech. Complementarily, the Face-to-Prosody Mapper (FaPro) conditions prosody on facial expressions, whose outputs are then fused with those of the Synchronizer to construct rich, fine-grained multimodal embeddings that capture prosody-content correlations, guiding the DFPA to generate expressive prosody and acoustic tokens for content-consistent speech. Experiments on two benchmark datasets demonstrate that DiFlowDubber outperforms prior methods across multiple evaluation metrics.},
+  proc        = {https://openaccess.thecvf.com/content/CVPR2026F/html/Nguyen_DiFlowDubber_Discrete_Flow_Matching_for_Automated_Video_Dubbing_via_Cross-Modal_CVPRF_2026_paper.html},
+  code        = {https://github.com/Fsoft-AIC/DiFlowDubber},
+  website     = {https://nngocson2002.github.io/projects/diflowdubber/},
+}
+
+@article{speechrecon2025,
+  abbr        = {Interspeech},
+  title       = {Speech Reconstruction from Silent Videos via Acoustic-Semantic Decomposed Modeling},
+  author      = {Pham, Long-Khanh and Tran, Thanh V. T. and Pham, Minh-Tan and Nguyen, Van},
+  journal     = {Interspeech},
+  year        = {2025},
+  selected    = {true},
+  abstract    = {Lip-to-speech (L2S) synthesis, which reconstructs speech from visual cues, faces challenges in accuracy and naturalness due to limited supervision in capturing linguistic content, accents, and prosody. In this paper, we propose RESOUND, a novel L2S system that generates intelligible and expressive speech from silent talking face videos. Leveraging source-filter theory, our method involves two components: an acoustic path to predict prosody and a semantic path to extract linguistic features. This separation simplifies learning, allowing independent optimization of each representation. Additionally, we enhance performance by integrating speech units, a proven unsupervised speech representation technique, into waveform generation alongside mel-spectrograms. This allows RESOUND to synthesize prosodic speech while preserving content and speaker identity. Experiments conducted on two standard L2S benchmarks confirm the effectiveness of the proposed method across various metrics.},
+  proc        = {https://www.isca-archive.org/interspeech_2025/pham25_interspeech.html},
+  code        = {https://github.com/Fsoft-AIC/RESOUND},
+  website     = {https://resound-l2s.github.io/},
+}
+
+@article{emotion2025,
+  abbr        = {ICASSP},
+  title       = {Effective Context Modeling Framework for Emotion Recognition in Conversations},
+  author      = {Tran Van*, Cuong and Tran*, Thanh V. T. and Nguyen, Van and Hy, Truong-Son},
+  journal     = {International Conference on Acoustics, Speech, and Signal Processing},
+  year        = {2025},
+  selected    = {true},
+  abstract    = {Emotion Recognition in Conversations (ERC) facilitates a deeper understanding of the emotions conveyed by speakers in each utterance within a conversation. Recently, Graph Neural Networks (GNNs) have demonstrated their strengths in capturing data relationships, particularly in contextual information modeling and multimodal fusion. However, existing methods often struggle to fully capture the complex interactions between multiple modalities and conversational context, limiting their expressiveness. To overcome these limitations, we propose ConxGNN, a novel GNN-based framework designed to capture contextual information in conversations. ConxGNN features two key parallel modules: a multi-scale heterogeneous graph that captures the diverse effects of utterances on emotional changes, and a hypergraph that models the multivariate relationships among modalities and utterances. The outputs from these modules are integrated into a fusion layer, where a cross-modal attention mechanism is applied to produce a contextually enriched representation. Additionally, ConxGNN tackles the challenge of recognizing minority or semantically similar emotion classes by incorporating a re-weighting scheme into the loss functions. Experimental results on the IEMOCAP and MELD benchmark datasets demonstrate the effectiveness of our method, achieving state-of-the-art performance compared to previous baselines.},
+  proc        = {https://ieeexplore.ieee.org/document/10888112/},
+  code        = {https://github.com/FSoft-AIC/ConxGNN/},
+  poster      = {2025_ICASSP_ConxGNN_Poster.pdf},
+}
+
+@article{groot2025,
+  abbr        = {KDD},
+  title       = {GROOT: Effective Design of Biological Sequences with Limited Experimental Data},
+  author      = {Tran*, Thanh V. T. and Ngo*, Nhat Khang and Nguyen, Viet Anh and Hy, Truong-Son},
+  journal     = {Conference on Knowledge Discovery and Data Mining},
+  year        = {2025},
+  selected    = {true},
+  abstract    = {Latent space optimization (LSO) is a powerful method for designing discrete, high-dimensional biological sequences that maximize expensive black-box functions, such as wet lab experiments. This is accomplished by learning a latent space from available data and using a surrogate model fΦ to guide optimization algorithms toward optimal outputs. However, existing methods struggle when labeled data is limited, as training fΦ with few labeled data points can lead to subpar outputs, offering no advantage over the training data itself. We address this challenge by introducing GROOT, a GRaph-based Latent SmOOThing for Biological Sequence Optimization. In particular, GROOT generates pseudo-labels for neighbors sampled around the training latent embeddings. These pseudo-labels are then refined and smoothed by Label Propagation. Additionally, we theoretically and empirically justify our approach, demonstrate GROOT's ability to extrapolate to regions beyond the training set while maintaining reliability within an upper bound of their expected distances from the training regions. We evaluate GROOT on various biological sequence design tasks, including protein optimization (GFP and AAV) and three tasks with exact oracles from Design-Bench. The results demonstrate that GROOT equalizes and surpasses existing methods without requiring access to black-box oracles or vast amounts of labeled data, highlighting its practicality and effectiveness.},
+  proc        = {https://dl.acm.org/doi/10.1145/3690624.3709291},
+  code        = {https://github.com/Fsoft-AIC/GROOT},
+  poster      = {2025_KDD_GROOT_Poster.pdf},
+  slides      = {2025_KDD_GROOT_Slides.pdf},
+}
+
+@article{latentde2025,
+  abbr        = {MLST},
+  title       = {LatentDE: Latent-based Directed Evolution for Protein Sequence Design},
+  author      = {Tran, Thanh V. T. and Khang Ngo, Nhat and Thanh Duy Nguyen, Viet and Hy, Truong-Son},
+  year        = {2025},
+  journal     = {Machine Learning: Science and Technology},
+  abstract    = {Directed evolution (DE) has been the most effective method for protein engineering that optimizes biological functionalities through a resource-intensive process of screening or selecting among a vast range of mutations. To mitigate this extensive procedure, recent advancements in machine learning-guided methodologies center around the establishment of a surrogate sequence-function model. In this paper, we propose latent-based DE (LDE), an evolutionary algorithm designed to prioritize the exploration of high-fitness mutants in the latent space. At its core, LDE is a regularized variational autoencoder (VAE), harnessing the capabilities of the state-of-the-art protein language model, ESM-2, to construct a meaningful latent space of sequences. From this encoded representation, we present a novel approach for efficient traversal on the fitness landscape, employing a combination of gradient-based methods and DE. Experimental evaluations conducted on eight protein sequence design tasks demonstrate the superior performance of our proposed LDE over previous baseline algorithms.},
+  proc        = {https://iopscience.iop.org/article/10.1088/2632-2153/adc2e2},
+  code        = {https://github.com/HySonLab/LatentDE},
+}
+
+@article{mlde2024,
+  abbr        = {IEEE TEVC},
+  title       = {Protein Design by Directed Evolution Guided by Large Language Models},
+  author      = {Tran, Thanh V. T. and Hy, Truong-Son},
+  year        = {2024},
+  journal     = {IEEE Transactions on Evolutionary Computation},
+  abstract    = {Directed evolution, a strategy for protein engineering, optimizes protein properties (i.e., fitness) by a rigorous and resource-intensive process of screening or selecting among a vast range of mutations. By conducting an in-silico screening of sequence properties, machine learning-guided directed evolution (MLDE) can expedite the optimization process and alleviate the experimental workload. In this work, we propose a general MLDE framework in which we apply recent advancements of deep learning in protein representation learning and protein property prediction to accelerate the searching and optimization processes. In particular, we introduce an optimization pipeline that utilizes the large language models (LLMs) to pinpoint the mutation hotspots in the sequence and then suggest replacements to improve the overall fitness. Our experiments have shown the superior efficiency and efficacy of our proposed framework in the conditional protein generation, in comparison with the other state-of-the-art baseline algorithms. We expect this work will shed a new light on not only protein engineering but also on solving the combinatorial problems using the data-driven methods.},
+  proc        = {https://ieeexplore.ieee.org/document/10628050},
+  code        = {https://github.com/HySonLab/Directed_Evolution},
+}

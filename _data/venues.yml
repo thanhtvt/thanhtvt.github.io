@@ -1,0 +1,31 @@
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#91917c"
+
+"KDD":
+  url: https://aistats.org/
+  color: "#6d6875"
+
+"Interspeech":
+  url: https://interspeech2026.org/
+  color: "#0048BA"
+
+"IEEE TEVC":
+  url: https://cis.ieee.org/publications/t-evolutionary-computation
+  color: "#4E6C50"
+
+"MLST":
+  url: https://iopscience.iop.org/journal/2632-2153
+  color: "#636C4E"
+
+"ICLR":
+  url: https://iclr.cc/
+  color: "#820000"
+
+"ICASSP":
+  url: https://2025.ieeeicassp.org/
+  color: "#E4C988"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#FF0000"
