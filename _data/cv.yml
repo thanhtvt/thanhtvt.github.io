@@ -5,7 +5,7 @@ cv:
   email:
   location:
   image: ""
-  summary: 
+  summary:
 
   social_networks:
     - network: GitHub
@@ -13,23 +13,25 @@ cv:
     - network: LinkedIn
       username: thanhtvt
 
-  address: 
+  address:
 
   sections:
     Education:
       - institution: Nanyang Technological University (NTU)
+        area: Electrical and Electronic Engineering
+        degree: Ph.D.
         location: Singapore
         url: https://www.ntu.edu.sg/
-        studyType: Ph.D. in Electrical and Electronic Engineering
         start_date: 2026-08
-        end_date: Present
+        end_date: present
         highlights:
-          - Advised by Professor <a href="https://sites.google.com/view/profwoon-seng-gan/">Woon-Seng Gan</a>
+          - Advised by Professor [Woon-Seng Gan](https://sites.google.com/view/profwoon-seng-gan/)
 
       - institution: VNU University of Engineering and Technology (VNU-UET)
+        area: Computer Science (Honors)
+        degree: B.Sc.
         location: Hanoi, Vietnam
         url: https://uet.vnu.edu.vn/en/
-        studyType: B.Sc. in Computer Science (Honors)
         start_date: 2019-08
         end_date: 2023-06
         score: 3.71/4.00 (top 5%)
@@ -44,9 +46,8 @@ cv:
         url: https://fptsoftware.com/services/digital-technologies-and-platforms/artificial-intelligence
         start_date: 2023-08
         end_date: 2026-07
-        summary:
         highlights:
-          - Supervised by Professor <a href="https://hytruongson.github.io/HySonLab/">Truong-Son Hy</a> and Dr. <a href="https://www.linkedin.com/in/vannguyen8/">Van Nguyen</a>
+          - Supervised by Professor [Truong-Son Hy](https://hytruongson.github.io/HySonLab/) and Dr. [Van Nguyen](https://www.linkedin.com/in/vannguyen8/)
 
       - company: VinBigData
         position: Speech Processing Intern
@@ -54,8 +55,6 @@ cv:
         url: https://vinbigdata.com/en
         start_date: 2021-10
         end_date: 2022-11
-        summary: 
-        highlights:
 
     Awards:
       - title: The Rising Innovator

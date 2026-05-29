@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
   image: avatar.jpg
   image_circular: false
-  more_info: 
+  more_info:
 
 selected_papers: true
 social: true
