@@ -1,0 +1,71 @@
+2026-05-29T04:01:51.4536355Z Current runner version: '2.334.0'
+2026-05-29T04:01:51.4561248Z ##[group]Runner Image Provisioner
+2026-05-29T04:01:51.4562093Z Hosted Compute Agent
+2026-05-29T04:01:51.4562810Z Version: 20260520.533
+2026-05-29T04:01:51.4563435Z Commit: 189110e25284a9812c124fd27b339e2fb4f2f9db
+2026-05-29T04:01:51.4564220Z Build Date: 2026-05-20T17:44:04Z
+2026-05-29T04:01:51.4564929Z Worker ID: {63f44e14-1c78-4ab5-abe2-ee0e84e37f14}
+2026-05-29T04:01:51.4565640Z Azure Region: westus
+2026-05-29T04:01:51.4566303Z ##[endgroup]
+2026-05-29T04:01:51.4567721Z ##[group]Operating System
+2026-05-29T04:01:51.4568841Z Ubuntu
+2026-05-29T04:01:51.4569394Z 24.04.4
+2026-05-29T04:01:51.4569896Z LTS
+2026-05-29T04:01:51.4570450Z ##[endgroup]
+2026-05-29T04:01:51.4570999Z ##[group]Runner Image
+2026-05-29T04:01:51.4571643Z Image: ubuntu-24.04
+2026-05-29T04:01:51.4572271Z Version: 20260525.161.1
+2026-05-29T04:01:51.4573489Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20260525.161/images/ubuntu/Ubuntu2404-Readme.md
+2026-05-29T04:01:51.4575052Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20260525.161
+2026-05-29T04:01:51.4576035Z ##[endgroup]
+2026-05-29T04:01:51.4577317Z ##[group]GITHUB_TOKEN Permissions
+2026-05-29T04:01:51.4579610Z Contents: read
+2026-05-29T04:01:51.4580316Z Metadata: read
+2026-05-29T04:01:51.4580869Z Packages: read
+2026-05-29T04:01:51.4581784Z ##[endgroup]
+2026-05-29T04:01:51.4584071Z Secret source: Actions
+2026-05-29T04:01:51.4585051Z Prepare workflow directory
+2026-05-29T04:01:51.5144716Z Prepare all required actions
+2026-05-29T04:01:51.5183024Z Getting action download info
+2026-05-29T04:01:52.0133965Z Download action repository 'actions/checkout@v4' (SHA:34e114876b0b11c390a56381ad16ebd13914f8d5)
+2026-05-29T04:01:52.1199965Z Download action repository 'myactionway/lighthouse-badger-action@v2.2' (SHA:0064f8e52023fe836d42f65e71231c54a93f7d0b)
+2026-05-29T04:01:52.4490523Z Complete job name: lighthouse-badger-easy
+2026-05-29T04:01:52.5054957Z ##[group]Run REPOSITORY=`expr "thanhtvt/thanhtvt.github.io master" : "\([^ ]*\)"`
+2026-05-29T04:01:52.5056066Z REPOSITORY=`expr "thanhtvt/thanhtvt.github.io master" : "\([^ ]*\)"`
+2026-05-29T04:01:52.5057012Z BRANCH=`expr "thanhtvt/thanhtvt.github.io master" : ".* \([^ ]*\)"`
+2026-05-29T04:01:52.5057821Z echo "REPOSITORY=$REPOSITORY" >> $GITHUB_ENV
+2026-05-29T04:01:52.5058709Z echo "BRANCH=$BRANCH" >> $GITHUB_ENV
+2026-05-29T04:01:52.5088884Z shell: /usr/bin/bash -e {0}
+2026-05-29T04:01:52.5089702Z env:
+2026-05-29T04:01:52.5090197Z   URLS: https://alshedivat.github.io/al-folio/
+2026-05-29T04:01:52.5090855Z   REPO_BRANCH: thanhtvt/thanhtvt.github.io master
+2026-05-29T04:01:52.5092020Z   MOBILE_LIGHTHOUSE_PARAMS: --only-categories=performance,accessibility,best-practices,seo --throttling.cpuSlowdownMultiplier=2
+2026-05-29T04:01:52.5093788Z   DESKTOP_LIGHTHOUSE_PARAMS: --only-categories=performance,accessibility,best-practices,seo --preset=desktop --throttling.cpuSlowdownMultiplier=1
+2026-05-29T04:01:52.5094958Z ##[endgroup]
+2026-05-29T04:01:52.5416739Z ##[group]Run actions/checkout@v4
+2026-05-29T04:01:52.5417319Z with:
+2026-05-29T04:01:52.5417759Z   repository: thanhtvt/thanhtvt.github.io
+2026-05-29T04:01:52.5418505Z   ref: master
+2026-05-29T04:01:52.5418913Z   ssh-strict: true
+2026-05-29T04:01:52.5419328Z   ssh-user: git
+2026-05-29T04:01:52.5419758Z   persist-credentials: true
+2026-05-29T04:01:52.5420226Z   clean: true
+2026-05-29T04:01:52.5420650Z   sparse-checkout-cone-mode: true
+2026-05-29T04:01:52.5421150Z   fetch-depth: 1
+2026-05-29T04:01:52.5421560Z   fetch-tags: false
+2026-05-29T04:01:52.5422463Z   show-progress: true
+2026-05-29T04:01:52.5422901Z   lfs: false
+2026-05-29T04:01:52.5423292Z   submodules: false
+2026-05-29T04:01:52.5423723Z   set-safe-directory: true
+2026-05-29T04:01:52.5424172Z env:
+2026-05-29T04:01:52.5424628Z   URLS: https://alshedivat.github.io/al-folio/
+2026-05-29T04:01:52.5425357Z   REPO_BRANCH: thanhtvt/thanhtvt.github.io master
+2026-05-29T04:01:52.5426847Z   MOBILE_LIGHTHOUSE_PARAMS: --only-categories=performance,accessibility,best-practices,seo --throttling.cpuSlowdownMultiplier=2
+2026-05-29T04:01:52.5430738Z   DESKTOP_LIGHTHOUSE_PARAMS: --only-categories=performance,accessibility,best-practices,seo --preset=desktop --throttling.cpuSlowdownMultiplier=1
+2026-05-29T04:01:52.5432431Z   REPOSITORY: thanhtvt/thanhtvt.github.io
+2026-05-29T04:01:52.5432991Z   BRANCH: master
+2026-05-29T04:01:52.5433406Z ##[endgroup]
+2026-05-29T04:01:52.6458994Z ##[error]Input required and not supplied: token
+2026-05-29T04:01:52.6607722Z Post job cleanup.
+2026-05-29T04:01:52.7643548Z Cleaning up orphan processes
+2026-05-29T04:01:52.8019117Z ##[warning]Node.js 20 actions are deprecated. The following actions are running on Node.js 20 and may not work as expected: actions/checkout@v4. Actions will be forced to run with Node.js 24 by default starting June 2nd, 2026. Node.js 20 will be removed from the runner on September 16th, 2026. Please check if updated versions of these actions are available that support Node.js 24. To opt into Node.js 24 now, set the FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true environment variable on the runner or in your workflow file. Once Node.js 24 becomes the default, you can temporarily opt out by setting ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
