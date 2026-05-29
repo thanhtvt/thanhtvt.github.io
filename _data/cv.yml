@@ -1,5 +1,6 @@
 cv:
   name: Thanh V. T. Tran
+  language: English, Vietnamese
   email:
   phone:
   website:
@@ -13,25 +14,25 @@ cv:
   sections:
     Education:
       - institution: Nanyang Technological University (NTU)
-        area: Electrical and Electronic Engineering
-        degree: Ph.D.
+        area:
+        degree: Ph.D. in Electrical and Electronic Engineering
         location: Singapore
         url: https://www.ntu.edu.sg/
         start_date: 2026-08
         end_date: 2030-08
         highlights:
-          - Advised by Professor [Woon-Seng Gan](https://sites.google.com/view/profwoon-seng-gan/)
+          - Advised by Professor [Woon-Seng Gan](https://sites.google.com/view/profwoon-seng-gan/).
 
       - institution: VNU University of Engineering and Technology (VNU-UET)
-        area: Computer Science (Honors)
-        degree: B.Sc.
+        area:
+        degree: B.Sc. in Computer Science (Honors)
         location: Hanoi, Vietnam
         url: https://uet.vnu.edu.vn/en/
         start_date: 2019-08
         end_date: 2023-06
         highlights:
-          - Excellence Degree (top 5%), GPA 3.71/4.00.
-          - "Thesis: Automatic Speech Recognition in Low-Resource Condition"
+          - Excellence Degree (top 5%).
+          - "Thesis: Automatic Speech Recognition in Low-Resource Conditions."
 
     Experience:
       - company: FPT Software - AI Center
@@ -51,14 +52,22 @@ cv:
         end_date: 2022-11
 
     Awards:
-      - label: "The Rising Innovator (2026)"
-        details: "FPT Software AI Center — Third Place among 20 finalists in internal AI Innovation Hackathon Q1 2026."
+      - title: The Rising Innovator
+        date: 2026
+        awarder: FPT Software - AI Center
+        summary: Third Place among 20 finalists in internal AI Innovation Hackathon Q1 2026.
 
-      - label: "Best Performance Award 2025 (2026)"
-        details: "FPT Software AI Center — Top 3 performers among 100+ AI engineers and researchers in 2025."
+      - title: Best Performance Award 2025
+        date: 2026
+        awarder: FPT Software - AI Center
+        summary: Top 3 performers among 100+ AI engineers and researchers in 2025.
 
-      - label: "Second Prize - VLSP 2022"
-        details: "VLAP — Second Place in Task 1 (ASR) at VLSP 2022, surpassing 30+ teams nationwide."
+      - title: Second Prize
+        date: 2022
+        awarder: Association for Vietnamese Language and Speech Processing
+        summary: Second Place in ASR - Task 1 at VLSP 2022, surpassing 30+ teams nationwide.
 
-      - label: "Third Prize - VLSP 2022"
-        details: "VLAP — Third Place in Task 2 (ASR) at VLSP 2022, surpassing 30+ teams nationwide."
+      - title: Third Prize
+        date: 2022
+        awarder: Association for Vietnamese Language and Speech Processing
+        summary: Third Place in ASR - Task 2 at VLSP 2022, surpassing 30+ teams nationwide.
