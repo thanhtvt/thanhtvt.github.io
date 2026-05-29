@@ -1,19 +1,14 @@
 cv:
   name: Thanh V. T. Tran
-  language: English, Vietnamese
-  label:
   email:
-  location:
-  image: ""
-  summary:
+  phone:
+  website:
 
   social_networks:
     - network: GitHub
       username: thanhtvt
     - network: LinkedIn
       username: thanhtvt
-
-  address:
 
   sections:
     Education:
@@ -23,7 +18,7 @@ cv:
         location: Singapore
         url: https://www.ntu.edu.sg/
         start_date: 2026-08
-        end_date: present
+        end_date: 2030-08
         highlights:
           - Advised by Professor [Woon-Seng Gan](https://sites.google.com/view/profwoon-seng-gan/)
 
@@ -34,9 +29,8 @@ cv:
         url: https://uet.vnu.edu.vn/en/
         start_date: 2019-08
         end_date: 2023-06
-        score: 3.71/4.00 (top 5%)
         highlights:
-          - Excellence Degree (top 5%).
+          - Excellence Degree (top 5%), GPA 3.71/4.00.
           - "Thesis: Automatic Speech Recognition in Low-Resource Condition"
 
     Experience:
@@ -57,22 +51,14 @@ cv:
         end_date: 2022-11
 
     Awards:
-      - title: The Rising Innovator
-        date: 2026-04
-        awarder: FPT Software AI Center
-        summary: Third Place among 20 finalists in internal AI Innovation Hackathon Q1 2026.
+      - label: "The Rising Innovator (2026)"
+        details: "FPT Software AI Center — Third Place among 20 finalists in internal AI Innovation Hackathon Q1 2026."
 
-      - title: Best Performance Award 2025
-        date: 2026-01
-        awarder: FPT Software AI Center
-        summary: Top 3 performers among 100+ AI engineers and researchers in 2025.
+      - label: "Best Performance Award 2025 (2026)"
+        details: "FPT Software AI Center — Top 3 performers among 100+ AI engineers and researchers in 2025."
 
-      - title: Second Prize - VLSP 2022
-        date: 2022
-        awarder: Association for Vietnamese Language and Speech Processing
-        summary: Second Place in Task 1 (ASR) at VLSP 2022, surpassing 30+ teams nationwide.
+      - label: "Second Prize - VLSP 2022"
+        details: "VLAP — Second Place in Task 1 (ASR) at VLSP 2022, surpassing 30+ teams nationwide."
 
-      - title: Third Prize - VLSP 2022
-        date: 2022
-        awarder: Association for Vietnamese Language and Speech Processing
-        summary: Third Place in Task 2 (ASR) at VLSP 2022, surpassing 30+ teams nationwide.
+      - label: "Third Prize - VLSP 2022"
+        details: "VLAP — Third Place in Task 2 (ASR) at VLSP 2022, surpassing 30+ teams nationwide."
