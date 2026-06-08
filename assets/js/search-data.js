@@ -45,6 +45,9 @@ ninja.data = [{
           section: "News",},{id: "news-diflowdubber-got-accepted-at-cvpr-findings-2026-diflowdubber-and-flowley-also-got-accepted-at-sight-and-sound-workshop-cvpr-2026",
           title: 'DiFlowDubber got accepted at CVPR Findings 2026. DiFlowDubber and Flowley also got accepted...',
           description: "",
+          section: "News",},{id: "news-diflow-tts-got-accepted-at-interspeech-2026-long-paper-track",
+          title: 'DiFlow-TTS got accepted at Interspeech 2026 (Long Paper track).',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
