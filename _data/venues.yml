@@ -18,8 +18,8 @@
   url: https://iopscience.iop.org/journal/2632-2153
   color: "#636C4E"
 
-"ICLR":
-  url: https://iclr.cc/
+"ECCV":
+  url: http://eccv.ecva.net/
   color: "#820000"
 
 "ICASSP":
