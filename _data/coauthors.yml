@@ -13,6 +13,10 @@
   - firstname: ["Nhat Khang"]
     url: https://scholar.google.com/citations?user=8xAvI0wAAAAJ&hl=en
 
+"ngo*":
+  - firstname: ["Nhat Khang"]
+    url: https://scholar.google.com/citations?user=8xAvI0wAAAAJ&hl=en
+
 "hy":
   - firstname: ["Truong-Son"]
     url: https://hytruongson.github.io/HySonLab/
