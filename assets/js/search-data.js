@@ -48,6 +48,9 @@ ninja.data = [{
           section: "News",},{id: "news-diflow-tts-got-accepted-at-interspeech-2026-long-paper-track",
           title: 'DiFlow-TTS got accepted at Interspeech 2026 (Long Paper track).',
           description: "",
+          section: "News",},{id: "news-flowley-got-accepted-at-eccv-2026-wrapping-up-my-journey-at-fpt-software-ai-center",
+          title: 'Flowley got accepted at ECCV 2026, wrapping up my journey at FPT Software...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
