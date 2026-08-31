@@ -51,6 +51,9 @@ ninja.data = [{
           section: "News",},{id: "news-flowley-got-accepted-at-eccv-2026-wrapping-up-my-journey-at-fpt-software-ai-center",
           title: 'Flowley got accepted at ECCV 2026, wrapping up my journey at FPT Software...',
           description: "",
+          section: "News",},{id: "news-started-my-ph-d-at-nanyang-technological-university-ntu-singapore-advised-by-prof-woon-seng-gan",
+          title: 'Started my Ph.D. at Nanyang Technological University (NTU), Singapore, advised by Prof. Woon-Seng...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
