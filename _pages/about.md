@@ -23,4 +23,4 @@ I am a first-year Ph.D. student in the School of Electrical and Electronic Engin
 
 I'm always open to collaborations, discussions, and new opportunities. Feel free to reach out if you're interested in my research or would like to discuss potential projects.
 
-**Research:** My research focuses on spatial audio signal processing and machine learning, particularly in the areas of auditory scene analysis and 3D sound event localization and detection.
+**Research:** My research focuses on temporal audio-language models, specifically improving their ability to understand and recognize complex, overlapping acoustic events in real-world environments.
